@@ -1,30 +1,24 @@
-import numpy as np
-import pandas as pd
+# Programa para leer el puerto serial
+# Marlon Lazo Coronado 
+# GOkeh Avila Blanco
+
+# se importa el modulo para escribir un archivo .csv y el de comunicacion serial en python 
 import csv
+import serial
 
 
+p_serial = serial.Serial(port = '/dev/ttyS0') 
 
-file = open("data.csv", "w")
+# para abrir el archivo en modo de escritura
+archivo= open("val.csv",'w') 
 
-count = 0
-
-vec_data = []
+# se crea la funcion para escribir
+escribir = csv.escribir(archivo) 
 
 while(1):
+    	val = p_serial.readline().decode().split(' ')
+    	escribir.escribirlinea(val) # escribe al archivo csv
+	print(val)
 
-
-		sleep(10)
-        
-		data_i = imput_from_micro
-		
-		vec_data.append(data_i)
-		
-		
-		if (count == 20):
-
-				file.write(" ,".join(vec_data))
-				
-				count = 0
-
-    
-    
+# se cierra el archivo
+archivo.close()
