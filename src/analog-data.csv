@@ -1,0 +1,421 @@
+b'PCD test\r\
+b'temp:0.00 C\r\
+b'HUMEDAD:0.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:25.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:13.78 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:3.46 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:4.51 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:5.55 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:5.55 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:6.56 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:4.51 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:97.76 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:-0.69 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:0.36 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:1.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:2.38 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:3.46 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:5.55 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:11.67 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:12.68 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:15.77 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:18.89 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:19.87 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:20.85 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:21.92 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:23.97 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:26.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:28.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:34.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:35.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:39.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:41.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:41.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:43.02 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:45.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:45.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:46.95 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:47.90 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:47.90 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:52.89 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:54.86 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:54.86 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:54.86 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:54.86 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:54.86 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:49.87 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:48.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:46.95 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:45.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:44.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:43.02 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:41.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:41.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:40.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:38.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:34.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:32.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:28.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:25.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:19.87 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:14.78 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:13.78 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:10.64 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:8.63 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:8.63 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:8.63 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:13.78 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:20.85 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:24.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:26.96 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:28.99 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.02 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:30.98 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:33.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:34.00 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:35.01 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
+b'temp:36.03 C\r\
+b'HUMEDAD:20.00%\r\
