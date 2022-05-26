@@ -1,24 +1,34 @@
-# Programa para leer el puerto serial
-# Marlon Lazo Coronado 
-# GOkeh Avila Blanco
+# Código para almacenar datos provenientes de un puerto serial en un
+# archivo CSV
 
-# se importa el modulo para escribir un archivo .csv y el de comunicacion serial en python 
-import csv
 import serial
 
 
-p_serial = serial.Serial(port = '/dev/ttyS0') 
+ser = serial.Serial(
+	port = "/tmp/ttyS1",\
+	baudrate=9600,\
+	parity=serial.PARITY_NONE,\
+	stopbits=serial.STOPBITS_ONE,\
+	bytesize=serial.EIGHTBITS,\
+	timeout=0,\
+	)
+	
+f = open("output.csv", "w+")
+	
+line =[]
+	
+	
+print("conect to port"+ser.portstr)
 
-# para abrir el archivo en modo de escritura
-archivo= open("val.csv",'w') 
+while True:
 
-# se crea la funcion para escribir
-escribir = csv.writer(archivo) 
-
-while(1):
-    	val = p_serial.readline().decode().split(' ')
-    	escribir.escribirlinea(val) # escribe al archivo csv
-print(val)
-
-# se cierra el archivo
-archivo.close()
+	for c in ser.read():
+	
+		c = chr(c)
+		line.append(c)
+		
+		
+		
+		print("Line: "+"".join(line))
+		str = "".join(line)
+		f.write(str)
