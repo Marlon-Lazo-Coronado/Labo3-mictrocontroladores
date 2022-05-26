@@ -13,12 +13,12 @@ p_serial = serial.Serial(port = '/dev/ttyS0')
 archivo= open("val.csv",'w') 
 
 # se crea la funcion para escribir
-escribir = csv.escribir(archivo) 
+escribir = csv.writer(archivo) 
 
 while(1):
     	val = p_serial.readline().decode().split(' ')
     	escribir.escribirlinea(val) # escribe al archivo csv
-	print(val)
+print(val)
 
 # se cierra el archivo
 archivo.close()
