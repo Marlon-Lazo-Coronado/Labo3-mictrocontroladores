@@ -10,6 +10,7 @@ archivo="datos.csv"
 seri = serial.Serial(puerto, baud)
 file = open(archivo, "w") # para escribir en el archivo
 
+# fuente: https://www.learnrobotics.org/blog/arduino-data-logger-csv/?utm_source=youtube&utm_medium=description&utm_campaign=arduino_CSV_data_logger
 muestras = 10000 # cantidad maxima de muestras que se van a recolectar
 etiq = False
 line = 0 # donde empezamos a imprimir
